@@ -1,0 +1,2 @@
+﻿DC Motor 1 wired to pins 3, 4, 11 with values F, 0, 
+USB Serial 1 wired to pins 1, 0 with value 9600
